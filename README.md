@@ -6,6 +6,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript?logo=typescript&label=Typescript)
 ![Javascript](https://img.shields.io/badge/-%20Javascript?logo=Javascript&label=Javascript)
 ![React](https://img.shields.io/badge/-%20React?logo=React&label=React)
+![React Native](https://img.shields.io/badge/-%20React%Native?logo=React&label=React)
 
 
 
