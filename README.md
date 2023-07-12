@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/claudio-denner-12b467254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-[![Portifólio](https://img.shields.io/badge/-Page-000?style=flat-square&logo=Portifolio&logoColor=white&link=https://cdenner.com.br)](https://cdenner.com.br)
+[![Portifolio](https://img.shields.io/badge/-Portifolio-000?style=flat-square&logo=Portifolio&logoColor=white&link=https://cdenner.com.br)](https://cdenner.com.br)
 
 
 
