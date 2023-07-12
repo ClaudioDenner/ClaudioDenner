@@ -13,7 +13,8 @@
 ##### technologies I've worked on
 ![PHP](https://img.shields.io/badge/-%20PHP?logo=PHP&label=PHP)
 ![Laravel](https://img.shields.io/badge/-%20Laravel?logo=Laravel&label=Laravel)
-![Vue](https://img.shields.io/badge/-%20Vue.JS?logo=Vue.JS&label=Vue.JS)
+![Vue](https://img.shields.io/badge/-%20Vue?logo=Vue.JS&label=Vue.JS)
+
 
 
 
