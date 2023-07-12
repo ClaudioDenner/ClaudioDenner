@@ -1,7 +1,9 @@
 # ClaudioDenner 
 
 ##### <img width="16" height="16" src="https://img.icons8.com/office/16/graduation-cap.png" alt="graduation-cap"/>Computer Science Student 2023/2027
-![Python](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffdd54)
+###### Current Stack
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)
 
 [![Portifolio](https://img.shields.io/badge/-Portifolio-000?style=flat-square&logo=Portifolio&logoColor=white&link=https://cdenner.com.br)](https://cdenner.com.br)
 <br>
