@@ -4,6 +4,11 @@
 ###### Current Stack
 ![Typescript](https://img.shields.io/badge/-Typescript?logo=typescript&label=Typescript)
 ![NodeJS](https://img.shields.io/badge/-NodeJS?logo=Node.JS&label=Node.JS)
+![Javascript](https://img.shields.io/badge/-%20Javascript?logo=Javascript&label=Javascript)
+![React](https://img.shields.io/badge/-%20React?logo=React&label=React)
+
+
+
 
 
 
