@@ -7,7 +7,7 @@
 
 
 <a href="https://www.linkedin.com/in/claudio-denner-12b467254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-![Static Badge](https://img.shields.io/badge/Page)
+[![Static Badge](https://img.shields.io/badge/Page)](https://img.shields.io/badge/any_text-you_like-blue)
 
 
 
