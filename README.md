@@ -2,7 +2,8 @@
 
 ##### <img width="16" height="16" src="https://img.icons8.com/office/16/graduation-cap.png" alt="graduation-cap"/>Computer Science Student 2023/2027
 ###### Current Stack
-![Static Badge](https://img.shields.io/badge/-Typescript?logo=typescript&label=Typescript)
+![Typescript](https://img.shields.io/badge/-Typescript?logo=typescript&label=Typescript)
+![NodeJS](https://img.shields.io/badge/-NodeJS?logo=Node.JS&label=Node.JS)
 
 
 
