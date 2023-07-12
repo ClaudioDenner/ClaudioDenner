@@ -1,7 +1,7 @@
 # ClaudioDenner 
 
 ##### <img width="16" height="16" src="https://img.icons8.com/office/16/graduation-cap.png" alt="graduation-cap"/>Computer Science Student 2023/2027
-##### Current Stack
+##### Current technologies
 ![NodeJS](https://img.shields.io/badge/-NodeJS?logo=Node.JS&label=Node.JS)
 ![NestJS](https://img.shields.io/badge/-%20Nest%20JS?logo=Nestjs&label=Nest.JS)
 ![Typescript](https://img.shields.io/badge/-Typescript?logo=typescript&label=Typescript)
@@ -10,8 +10,10 @@
 ![React Native](https://img.shields.io/badge/-%20React%20Native?logo=React&label=React%20Native)
 
 
-##### Stacks I've worked on
+##### technologies I've worked on
 ![PHP](https://img.shields.io/badge/-%20PHP?logo=PHP&label=PHP)
+![Static Badge](https://img.shields.io/badge/-%20Laravel?logo=Laravel&label=Laravel)
+
 
 
 
