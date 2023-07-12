@@ -10,7 +10,7 @@
 ![React Native](https://img.shields.io/badge/-%20React%20Native?logo=React&label=React%20Native)
 
 
-##### technologies I've worked on
+##### Knowledge in
 ![PHP](https://img.shields.io/badge/-%20PHP?logo=PHP&label=PHP)
 ![Laravel](https://img.shields.io/badge/-%20Laravel?logo=Laravel&label=Laravel)
 ![Vue](https://img.shields.io/badge/-%20Vue?logo=Vue.JS&label=Vue.JS)
