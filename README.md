@@ -1,7 +1,7 @@
 # ClaudioDenner [![Portifolio](https://img.shields.io/badge/-Portifolio-000?style=flat-square&logo=Portifolio&logoColor=white&link=https://cdenner.com.br)](https://cdenner.com.br)
 
 
-### <img src="https://img.freepik.com/free-icon/mortarboard_318-182833.jpg" style="width:32px">Computer Science Student 2023/2027
+### <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/graduation-cap.png" alt="graduation-cap"/>Computer Science Student 2023/2027
 
 
 
