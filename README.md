@@ -1,6 +1,6 @@
 # ClaudioDenner 
 
-##### <img width="16" height="16" src="https://img.icons8.com/office/16/graduation-cap.png" alt="graduation-cap"/>Computer Science Student 2023/2027
+
 ##### Current technologies
 ![NodeJS](https://img.shields.io/badge/-NodeJS?logo=Node.JS&label=Node.JS)
 ![NestJS](https://img.shields.io/badge/-%20Nest%20JS?logo=Nestjs&label=Nest.JS)
